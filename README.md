@@ -1,7 +1,7 @@
 # Website Profile Card Kelompok - GitReady 2.0
 
 ## Visualisasi
-
+![Visualisasi Website](Screenshot 2026-09-19 at 14.07.12.png)
 
 ## Tech Stack
 * HTML5
