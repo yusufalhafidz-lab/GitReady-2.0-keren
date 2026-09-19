@@ -16,7 +16,7 @@
 
 ## Contribution
 * Yusuf Al hafidz (Project Initiator): Memulai repository, mengundang collaborator, mengunggah file `index.html` awal di branch `main`, mengulas Pull Request, serta mengelola Merge Conflict.
-* Angel(Styling Engineer): Membuat branch `feature/styling`, menambahkan file `style.css`, serta menghubungkannya ke `index.html`.
+* Fena Angelim (Styling Engineer): Membuat branch `feature/styling`, menambahkan file `style.css`, serta menghubungkannya ke `index.html`.
 * Marvell Christian Jonathan (Script Engineer): Membuat branch `feature/scripting`, menambahkan file `script.js`, memperbarui data anggota, serta menghubungkannya ke `index.html`.
 
 ## What I Learned
