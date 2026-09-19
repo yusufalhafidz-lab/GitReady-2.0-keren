@@ -1,27 +1,47 @@
-# Website Profile Card Kelompok - GitReady 2.0
+# Overview
+
+Website Profile Card Kelompok adalah halaman kartu profil interaktif dengan fitur dark mode dan navigasi anggota, dibuat sebagai study case Workshop Git & GitHub.
+
+---
 
 ## Visualisasi
+
 <img src="./Screenshot 2026-09-19 at 14.07.12.png" alt="Visualisasi Website">
+
+Live Demo: [https://yusufalhafidz-lab.github.io/GitReady-2.0-keren/](https://yusufalhafidz-lab.github.io/GitReady-2.0-keren/)
+
+---
+
 ## Tech Stack
-* HTML5
-* CSS3
-* JavaScript 
-* Git & GitHub (Branching, PR, Merge Conflict Resolution)
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Git & GitHub
+
+---
 
 ## Fitur Utama
-* Member Profile: Mengganti tampilan profil Anggota 1, 2, dan 3 secara dinamis saat navigasi diklik.
-* Dark Mode Toggle: Mengubah tema warna tampilan antarmuka antara mode terang dan gelap.
-* Like Counte: Menghitung jumlah apresiasi (like) secara independen untuk tiap anggota.
+
+- [x] Toggle Dark Mode
+- [x] Navigasi Profil Anggota Interaktif
+- [x] Responsive layout
+- [x] Penghubungan Script & Style melalui Kolaborasi Git
+
+---
 
 ## Contribution
-* Yusuf Al hafidz (Project Initiator): Memulai repository, mengundang collaborator, mengunggah file `index.html` awal di branch `main`, mengulas Pull Request, serta mengelola Merge Conflict.
-* Fena Angelim (Styling Engineer): Membuat branch `feature/styling`, menambahkan file `style.css`, serta menghubungkannya ke `index.html`.
-* Marvell Christian Jonathan (Script Engineer): Membuat branch `feature/scripting`, menambahkan file `script.js`, memperbarui data anggota, serta menghubungkannya ke `index.html`.
 
-## What I Learned
-* Memahami alur kerja Git & GitHub.
-* Mengelola pembuatan branch terpisah untuk pengerjaan fitur.
-* Melakukan Code Review melalui Pull Request dan menyelesaikan Merge Conflict.
+| Anggota | Role | Kontribusi |
+|---|---|---|
+| yusufalhafidz-lab | Project Initiator | Membuat repository, mengatur akses kolaborator, membuat struktur awal `index.html`, dan menyelesaikan merge conflict |
+| 4nzlyn | Styling Engineer | Membuat branch `feature/styling`, menambahkan file `style.css`, serta menghubungkannya ke `index.html` |
+| shipitoon | Script Engineer | Membuat branch `feature/scripting`, menambahkan file `script.js`, serta menghubungkannya ke `index.html` |
 
-## Feature Improvement
-* Belum ada
+---
+
+## How to Run
+
+1. Clone repository ini:
+   ```bash
+   git clone [https://github.com/yusufalhafidz-lab/GitReady-2.0-keren.git](https://github.com/yusufalhafidz-lab/GitReady-2.0-keren.git)
