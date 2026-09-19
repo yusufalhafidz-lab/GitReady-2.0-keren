@@ -6,7 +6,7 @@ Website Profile Card Kelompok adalah halaman kartu profil interaktif dengan fitu
 
 ## Visualisasi
 
-<img src="./Screenshot 2026-09-19 at 14.07.12.png" alt="Visualisasi Website">
+<img src="./Preview web.jpeg" alt="Visualisasi Website">
 
 Live Demo: [https://yusufalhafidz-lab.github.io/GitReady-2.0-keren/](https://yusufalhafidz-lab.github.io/GitReady-2.0-keren/)
 
